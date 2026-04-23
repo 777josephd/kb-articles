@@ -19,7 +19,7 @@ These articles are written to reflect real support scenarios, structured around 
 | [New Device Setup (Windows)](./new-device-setup-windows.md) | Step-by-step onboarding guide covering sign-in, MFW enrollment, updates, and drive mapping |
 | [Shared Drive Access Issues](./shared-drive-access-issues.md) | Covers missing drive mappings, permission errors, and remote access dependencies |
 | [Printer Connectivity Guide](./printer-connectivity-guide.md) | Covers first-time setup, stuck print queues, offline status, and server-side failures |
-| [Working From Home - IT Checklist](./working-from-home-it-checklist.md)
+| [Working From Home - IT Checklist](./working-from-home-it-checklist.md) | Packages VPN + MFA + connectivity into a practical guide |
 
 ---
 
